@@ -1,7 +1,7 @@
-- 👋 Olá, Meu nome é Amanda Ribeiro
-- 👀 Minha paixão é sobre como os dados podem transformar um negócio.
-- 🌱 Atuo em desenvolver Arquitetura de dados inteligentes alinhadas com a Governança de Dados - Desenvolvo Dashboards para o mundo executivo.
-- 💞️ Procuro entender mais sobre o universo de Arquitetura de dados
+- :smiley: Olá, Meu nome é Amanda Ribeiro!
+- :heart: Minha paixão é sobre como os dados podem transformar um negócio.
+- :computer: Atuo em análise de dados e estou em transição de carreira para ser uma cientista de dados.
+- :eyes: Procuro entender mais sobre o universo de Arquitetura de dados , Algoritmos de machine learning e MultiCloud.
 
 
 <!---
