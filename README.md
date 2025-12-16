@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-###<br clear="both"><img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/snake.svg" alt="Snake animation" />
+<br clear="both"><img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/snake.svg" alt="Snake animation" />
 
 ###
 
