@@ -1,0 +1,38 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    # Execute a cada 12 horas (ajuste se quiser uma frequência diferente)
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # 1. Faz o checkout do código do repositório
+      - uses: actions/checkout@v4
+      
+      # 2. Gera o snake.svg e salva na raiz do repositório (com tema dark)
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # O arquivo será salvo como 'snake.svg' na raiz
+          outputs: snake.svg?palette=github-dark 
+          
+      # 3. Commita e faz o push da imagem gerada de volta para o branch principal
+      - name: Push new snake.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: main
+          message: 'Generate snake animation'
+          add: 'snake.svg' # Arquivo gerado a ser commitado
+        env:
+          # Permissão necessária para o bot fazer o commit
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
