@@ -49,26 +49,93 @@
 
 ###
 
-<p align="left">🚀 Sobre Mim<br><br>Sou engenheira de dados com transição bem-sucedida da análise, trazendo uma perspectiva única que conecta **infraestrutura técnica** com **necessidades de negócio**. Minha jornada me permitiu entender profundamente como dados fluem, se transformam e geram impacto real nas organizações.<br><br>Atuo na manutenção e evolução de infraestruturas de dados em produção e teste, garantindo confiabilidade, performance e governança em ambientes **MultiCloud** (Azure, AWS, Google Cloud).</p>
+## 🚀 Sobre Mim
 
-###
+Sou engenheira de dados com transição bem-sucedida da análise, trazendo uma perspectiva única que conecta **infraestrutura técnica** com **necessidades de negócio**. Minha jornada me permitiu entender profundamente como dados fluem, se transformam e geram impacto real nas organizações.
 
-<p align="left">
-### **Ingestão & Orquestração**<br>- Pipelines batch, near real-time e real-time com **Azure Data Factory** e **Databricks**<br>- Desenvolvimento em **PySpark** para processamento distribuído<br>- Orquestração eficiente de workflows complexos<br><br>
-### **Transformação & Qualidade**<br>- Transformações de dados e padronização de schemas<br>- Documentação técnica e catálogo de dados<br>- Implementação de governança: qualidade, versionamento, linhagem e segurança<br>- Otimização de custos em ambientes cloud<br><br>
-### **Monitoramento & Confiabilidade**<br>- Monitoramento em tempo real e gestão de incidentes<br>- Garantia de SLAs e performance de pipelines<br>- Troubleshooting e otimização contínua<br><br>
-### **Disponibilização de Dados**<br>- Serving layers para consumo por modelos analíticos e BI<br>- Suporte a squads consumidoras e áreas de negócio<br>- Integração com plataformas de analytics e machine learning</p>
+Atuo na manutenção e evolução de infraestruturas de dados em produção e teste, garantindo confiabilidade, performance e governança em ambientes **MultiCloud** (Azure, AWS, Google Cloud).
 
-###
+---
 
-<p align="left">## 🎓 Certificações<br><br><div align="center"><br><br>| Certificação | Status |<br>|---|---|<br>| **AZ-900** - Azure Fundamentals | ✅ |<br>| **AI-900** - Azure AI Fundamentals | ✅ |<br>| **DP-100** - Azure Data Scientist | ✅ |<br>| **CLF-C02** - AWS Cloud Practitioner | ✅ |<br>| **Databricks Fundamentals** | ✅ |</p>
+## 💼 O Que Faço
 
-###
+### **Ingestão & Orquestração**
+- Pipelines batch, near real-time e real-time com **Azure Data Factory** e **Databricks**
+- Desenvolvimento em **PySpark** para processamento distribuído
+- Orquestração eficiente de workflows complexos
 
-<p align="left">## 📚 Educação & Mentoria<br><br>Leciono **Data Analytics** em turmas abertas e in company, cobrindo:<br><br>- 📊 Estruturas de dados e SQL avançado<br>- 📈 KPIs, OKRs e definição de métricas<br>- 🎨 Storytelling com dados<br>- 📉 Power BI e visualizações<br>- 🤖 Introdução a Machine Learning<br>- 🔐 Boas práticas de governança e linhagem de dados<br><br>Meu objetivo é formar profissionais que entendam tanto a **excelência técnica** quanto o **impacto no negócio**.</p>
+### **Transformação & Qualidade**
+- Transformações de dados e padronização de schemas
+- Documentação técnica e catálogo de dados
+- Implementação de governança: qualidade, versionamento, linhagem e segurança
+- Otimização de custos em ambientes cloud
 
-###
+### **Monitoramento & Confiabilidade**
+- Monitoramento em tempo real e gestão de incidentes
+- Garantia de SLAs e performance de pipelines
+- Troubleshooting e otimização contínua
 
-<p align="left">## 🛠️ Tech Stack<br><br>**Cloud & Infraestrutura:**<br>- Azure (Data Factory, Databricks, Synapse)<br>- AWS (S3, Glue, Lambda)<br>- Google Cloud (BigQuery, Dataflow)<br><br>**Processamento & Orquestração:**<br>- PySpark | Python | SQL<br>- Databricks | Apache Spark<br>- Azure Data Factory<br><br>**Governança & Qualidade:**<br>- Data Catalogs | Data Lineage<br>- Data Quality Frameworks<br>- Security & Compliance<br><br>**Analytics & BI:**<br>- Power BI | Tableau<br>- SQL Analytics<br>- Machine Learning Basics</p>
+### **Disponibilização de Dados**
+- Serving layers para consumo por modelos analíticos e BI
+- Suporte a squads consumidoras e áreas de negócio
+- Integração com plataformas de analytics e machine learning
 
-###
+---
+
+
+## 🎓 Certificações
+
+<div align="center">
+
+| Certificação | Status |
+|---|---|
+| **AZ-900** - Azure Fundamentals | ✅ |
+| **AI-900** - Azure AI Fundamentals | ✅ |
+| **DP-100** - Azure Data Scientist | ✅ |
+| **CLF-C02** - AWS Cloud Practitioner | ✅ |
+| **Databricks Fundamentals** | ✅ |
+
+</div>
+
+---
+
+## 📚 Educação & Mentoria
+
+Leciono **Data Analytics** em turmas abertas e in company, cobrindo:
+
+- 📊 Estruturas de dados e SQL avançado
+- 📈 KPIs, OKRs e definição de métricas
+- 🎨 Storytelling com dados
+- 📉 Power BI e visualizações
+- 🤖 Introdução a Machine Learning
+- 🔐 Boas práticas de governança e linhagem de dados
+
+Meu objetivo é formar profissionais que entendam tanto a **excelência técnica** quanto o **impacto no negócio**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Infraestrutura:**
+- Azure (Data Factory, Databricks, Synapse)
+- AWS (S3, Glue, Lambda)
+- Google Cloud (BigQuery, Dataflow)
+
+**Processamento & Orquestração:**
+- PySpark | Python | SQL
+- Databricks | Apache Spark
+- Azure Data Factory
+
+**Governança & Qualidade:**
+- Data Catalogs | Data Lineage
+- Data Quality Frameworks
+- Security & Compliance
+
+**Analytics & BI:**
+- Power BI | Tableau
+- SQL Analytics
+- Machine Learning Basics
+
+---
+
+## 🎯 Minha Jornada
