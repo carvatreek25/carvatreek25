@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">**Engenheira de Dados Júnior** | Apaixonada por transformar dados em valor de negócio</h3>
+<h3 align="left">**Engenheira de Dados** | Apaixonada por transformar dados em valor de negócio</h3>
 
 ###
 
