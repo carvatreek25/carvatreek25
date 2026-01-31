@@ -91,6 +91,7 @@ Atuo na manutenção e evolução de infraestruturas de dados em produção e te
 | Certificação | Status |
 |---|---|
 | **AZ-900** - Azure Fundamentals | ✅ |
+| **DP-900** - Azure AI Fundamentals | ✅ |
 | **AI-900** - Azure AI Fundamentals | ✅ |
 | **DP-100** - Azure Data Scientist | ✅ |
 | **CLF-C02** - AWS Cloud Practitioner | ✅ |
