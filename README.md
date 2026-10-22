@@ -110,12 +110,6 @@ Também sou **educadora de dados**: leciono Data Analytics em turmas abertas e i
 
 ## 📚 Educação e mentoria
 
-Leciono **Data Analytics** em turmas abertas e in company:
+Ensino **Data Analytics** em turmas abertas e in company, hoje com foco em **modelagem de dados**: como desenhar tabelas, relacionamentos e camadas para que a análise seja confiável desde a origem. A partir dessa base, trabalho SQL avançado, KPIs e OKRs, storytelling com Power BI e uma introdução a Machine Learning.
 
-- Estruturas de dados e SQL avançado
-- KPIs, OKRs e definição de métricas
-- Storytelling com dados e Power BI
-- Introdução a Machine Learning
-- Boas práticas de governança e linhagem de dados
-
-Meu objetivo é formar profissionais que unam excelência técnica e impacto no negócio.
+Levo para a sala de aula o que vivo na engenharia, da governança e da linhagem à qualidade dos dados, para que quem aprende saiba não só gerar um número, mas confiar nele e explicá-lo. Meu objetivo é formar profissionais que unam excelência técnica e impacto no negócio.
