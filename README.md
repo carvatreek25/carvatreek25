@@ -4,9 +4,9 @@
   </a>
 </div>
 
-<h2 align="left">👋 Olá! Sou Amanda Carvalheira Ribeiro</h2>
+<h2 align="left">👋 Olá, eu sou a Amanda! Cuido para que os dados cheguem certos a quem decide</h2>
 
-<h3 align="left"><b>Engenheira de Dados</b> | Python, SQL, Google Cloud, dbt e Dagster</h3>
+<h3 align="left"><b>Engenheira de Dados</b> | Python, SQL, dbt, Dagster e Google Cloud</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/ferramentas-v5-dark.svg">
