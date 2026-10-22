@@ -8,6 +8,8 @@
 
 <h3 align="left"><b>Engenheira de Dados</b> | Python, SQL, Google Cloud, dbt e Dagster</h3>
 
+<img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/ferramentas.svg" alt="Ferramentas mais utilizadas" />
+
 <img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/snake.svg" alt="Snake animation" />
 
 ## 👩‍💻 Sobre mim
@@ -93,6 +95,3 @@ Meu objetivo é formar profissionais que unam excelência técnica e impacto no 
 ## 📊 GitHub Stats
 
 <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=carvatreek25&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-<img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvatreek25&theme=dark&hide_border=false&layout=compact&langs_count=6" />
-
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=carvatreek25&theme=dark&hide_border=false" />
