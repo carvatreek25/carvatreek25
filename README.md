@@ -8,6 +8,8 @@
 
 <h3 align="left"><b>Engenheira de Dados</b> | Python, SQL, Google Cloud, dbt e Dagster</h3>
 
+<img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/snake.svg" alt="Snake animation" />
+
 ## 👩‍💻 Sobre mim
 
 Sou engenheira de dados com uma transição bem-sucedida da análise, e levo essa perspectiva para a engenharia: conecto a **infraestrutura técnica** com as **necessidades do negócio**. Entendo como os dados fluem, se transformam e geram impacto real nas organizações, e desenho cada pipeline pensando em quem vai consumi-lo.
@@ -63,19 +65,14 @@ Também sou **educadora de dados**: leciono Data Analytics em turmas abertas e i
 
 ## 🎓 Certificações
 
-**Google Cloud**
-- **Generative AI Leader**
-- *Em andamento:* **Cloud Digital Leader**
+**Google Cloud**<br/>
+![Generative AI Leader](https://img.shields.io/badge/Generative_AI_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Cloud Digital Leader](https://img.shields.io/badge/Cloud_Digital_Leader-em_andamento-lightgrey?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**Microsoft Azure**
-- **AZ-900:** Azure Fundamentals
-- **DP-900:** Azure Data Fundamentals
-- **AI-900:** Azure AI Fundamentals
-- **DP-100:** Azure Data Scientist
+**Microsoft Azure**<br/>
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge) ![DP-900](https://img.shields.io/badge/DP--900-Data_Fundamentals-0078D4?style=for-the-badge) ![AI-900](https://img.shields.io/badge/AI--900-AI_Fundamentals-0078D4?style=for-the-badge) ![DP-100](https://img.shields.io/badge/DP--100-Data_Scientist-0078D4?style=for-the-badge)
 
-**AWS e Databricks**
-- **CLF-C02:** AWS Cloud Practitioner
-- **Databricks Fundamentals**
+**AWS e Databricks**<br/>
+![CLF-C02](https://img.shields.io/badge/CLF--C02-Cloud_Practitioner-FF9900?style=for-the-badge) ![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
@@ -95,7 +92,7 @@ Meu objetivo é formar profissionais que unam excelência técnica e impacto no 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=carvatreek25&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=carvatreek25&theme=dark&hide_border=false)
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=carvatreek25&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+<img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvatreek25&theme=dark&hide_border=false&layout=compact&langs_count=6" />
 
-<br clear="both"><img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/snake.svg" alt="Snake animation" />
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=carvatreek25&theme=dark&hide_border=false" />
