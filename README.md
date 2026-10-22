@@ -55,13 +55,13 @@ Também sou **educadora de dados**: leciono Data Analytics em turmas abertas e i
 
 ## 🚀 Projetos
 
-| Projeto | O que mostra |
-|---|---|
-| [**projeto-supermercado-medalhao**](https://github.com/carvatreek25/projeto-supermercado-medalhao) | Arquitetura medalhão (bronze, silver, gold) em Python, com dados sintéticos, auditoria de qualidade e dashboard em Power BI. |
-| [**End-to-End_Data_Pipeline_DuckDB**](https://github.com/carvatreek25/End-to-End_Data_Pipeline_DuckDB) | Pipeline completo de ponta a ponta com DuckDB: geração de dados, três camadas e análises de negócio. |
-| [**meu_dbt_pdf**](https://github.com/carvatreek25/meu_dbt_pdf) | Faturas em PDF viram tabelas (Camelot), transformadas com dbt em camadas e entregues a um dashboard em Power BI. |
-| [**Python_Data_Wrangling_Supermarket_Sales**](https://github.com/carvatreek25/Python_Data_Wrangling_Supermarket_Sales) | ETL em Python com DuckDB e análise de vendas de supermercado. |
-| [**Delivery**](https://github.com/carvatreek25/Delivery) | Análises de dados para Marketing, Pricing e Controladoria de uma empresa de delivery, com KPIs e modelo de dados. |
+| Projeto | Problema real que resolve | Tecnologias |
+|---|---|---|
+| [**projeto-supermercado-medalhao**](https://github.com/carvatreek25/projeto-supermercado-medalhao) | Vendas brutas e inconsistentes viram uma base limpa e auditada, pronta para responder quando o supermercado vende mais, qual o ticket médio e como cada filial é avaliada. | Python, Pandas, Faker, arquitetura medalhão (bronze, silver, gold), Power BI |
+| [**End-to-End_Data_Pipeline_DuckDB**](https://github.com/carvatreek25/End-to-End_Data_Pipeline_DuckDB) | O cadastro bruto de uma academia vira uma base confiável para saber quanto cada plano fatura, qual o perfil dos alunos por faixa etária e como a receita evolui. | Python, DuckDB, SQL, Pandas, Seaborn, arquitetura medalhão |
+| [**meu_dbt_pdf**](https://github.com/carvatreek25/meu_dbt_pdf) | Faturas que existem só em PDF, e que ninguém consegue analisar, viram tabelas confiáveis e alimentam um dashboard que se atualiza a cada nova fatura. | Python, Camelot, dbt, MySQL, Power BI |
+| [**Python_Data_Wrangling_Supermarket_Sales**](https://github.com/carvatreek25/Python_Data_Wrangling_Supermarket_Sales) | Dados de venda em formato bruto viram uma base padronizada para o gestor decidir, por exemplo, o melhor horário para uma promoção relâmpago. | Python, Pandas, DuckDB, Power BI |
+| [**Delivery**](https://github.com/carvatreek25/Delivery) | Dá a Marketing, Pricing e Financeiro os números para decidir quais entregadores rendem mais, quanto subsidiar a taxa por região e como dividir o bônus a partir do lucro. | Python, Pandas, Jupyter, Matplotlib, Seaborn |
 
 ---
 
