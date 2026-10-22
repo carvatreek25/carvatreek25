@@ -67,14 +67,44 @@ Também sou **educadora de dados**: leciono Data Analytics em turmas abertas e i
 
 ## 🎓 Certificações
 
-**Google Cloud**<br/>
-![Generative AI Leader](https://img.shields.io/badge/Generative_AI_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Cloud Digital Leader](https://img.shields.io/badge/Cloud_Digital_Leader-em_andamento-lightgrey?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Microsoft Azure**<br/>
-![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge) ![DP-900](https://img.shields.io/badge/DP--900-Data_Fundamentals-0078D4?style=for-the-badge) ![AI-900](https://img.shields.io/badge/AI--900-AI_Fundamentals-0078D4?style=for-the-badge) ![DP-100](https://img.shields.io/badge/DP--100-Data_Scientist-0078D4?style=for-the-badge)
-
-**AWS e Databricks**<br/>
-![CLF-C02](https://img.shields.io/badge/CLF--C02-Cloud_Practitioner-FF9900?style=for-the-badge) ![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/55a463a8-09a8-4268-beb7-77f51691d2ce"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="110" alt="Generative AI Leader" /></a><br/>
+      <b>Generative AI Leader</b><br/><sub>Google Cloud</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://learn.microsoft.com/pt-br/users/amandacarvalheira-5538/credentials/certification/azure-fundamentals"><img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" alt="AZ-900" /></a><br/>
+      <b>AZ-900</b><br/><sub>Azure Fundamentals</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://learn.microsoft.com/pt-br/users/amandacarvalheira-5538/credentials/certification/azure-data-fundamentals"><img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" alt="DP-900" /></a><br/>
+      <b>DP-900</b><br/><sub>Azure Data Fundamentals</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://learn.microsoft.com/pt-br/users/amandacarvalheira-5538/credentials/certification/azure-ai-fundamentals"><img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" alt="AI-900" /></a><br/>
+      <b>AI-900</b><br/><sub>Azure AI Fundamentals</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://learn.microsoft.com/pt-br/users/amandacarvalheira-5538/credentials/certification/azure-data-scientist"><img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="DP-100" /></a><br/>
+      <b>DP-100</b><br/><sub>Azure Data Scientist</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://credentials.databricks.com/3e74ea67-57ec-42ff-bf90-1c0244e0a84f"><img src="https://api.accredible.com/v1/frontend/credential_badge_image/124526758" width="110" alt="Databricks Fundamentals" /></a><br/>
+      <b>Databricks Fundamentals</b><br/><sub>Databricks</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/aa0c0251-8433-4e2e-a9c3-f942ebfd76ac"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner" /></a><br/>
+      <b>CLF-C02</b><br/><sub>AWS Cloud Practitioner<br/>expirada em ago/2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Cloud_Digital_Leader-em_andamento-lightgrey?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Digital Leader, em andamento" /><br/>
+      <sub>Google Cloud</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
