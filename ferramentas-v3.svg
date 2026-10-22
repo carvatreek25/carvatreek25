@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="290" viewBox="0 0 830 290" role="img" aria-label="Ferramentas mais utilizadas">
+<style>text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Arial,sans-serif}.t{font-size:18px;font-weight:600;fill:#fff}.l{font-size:13px;font-weight:600;fill:#f1e9ea}.n{font-size:11px;fill:#a89da0}</style>
+<rect x="0.5" y="0.5" width="829" height="289" rx="4.5" fill="#1a1416" stroke="#e4e2e2" stroke-opacity="0.2"/>
+<rect x="24" y="22" width="4" height="20" rx="2" fill="#D2343C"/>
+<text x="38" y="37" class="t">Ferramentas mais utilizadas</text>
+<text x="24" y="80" class="l">Python</text>
+<rect x="102" y="66" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="102" y="66" width="220" height="18" rx="9" fill="#D2343C"/>
+<text x="330" y="80" class="n">dia a dia</text>
+<text x="24" y="112" class="l">SQL</text>
+<rect x="102" y="98" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="102" y="98" width="220" height="18" rx="9" fill="#D2343C"/>
+<text x="330" y="112" class="n">dia a dia</text>
+<text x="24" y="144" class="l">DBT</text>
+<rect x="102" y="130" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="102" y="130" width="220" height="18" rx="9" fill="#D2343C"/>
+<text x="330" y="144" class="n">dia a dia</text>
+<text x="24" y="176" class="l">Dagster</text>
+<rect x="102" y="162" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="102" y="162" width="220" height="18" rx="9" fill="#D2343C"/>
+<text x="330" y="176" class="n">dia a dia</text>
+<text x="24" y="208" class="l">BigQuery</text>
+<rect x="102" y="194" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="102" y="194" width="220" height="18" rx="9" fill="#D2343C"/>
+<text x="330" y="208" class="n">dia a dia</text>
+<text x="24" y="240" class="l">Power BI</text>
+<rect x="102" y="226" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="102" y="226" width="154" height="18" rx="9" fill="#EF9DB6"/>
+<text x="330" y="240" class="n">frequente</text>
+<text x="424" y="80" class="l">Agentes de IA</text>
+<rect x="522" y="66" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="522" y="66" width="154" height="18" rx="9" fill="#EF9DB6"/>
+<text x="750" y="80" class="n">frequente</text>
+<text x="424" y="112" class="l">DuckDB</text>
+<rect x="522" y="98" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="522" y="98" width="88" height="18" rx="9" fill="#8FC1EE"/>
+<text x="750" y="112" class="n">já usei</text>
+<text x="424" y="144" class="l">Azure</text>
+<rect x="522" y="130" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="522" y="130" width="88" height="18" rx="9" fill="#8FC1EE"/>
+<text x="750" y="144" class="n">já usei</text>
+<text x="424" y="176" class="l">PySpark</text>
+<rect x="522" y="162" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="522" y="162" width="88" height="18" rx="9" fill="#8FC1EE"/>
+<text x="750" y="176" class="n">já usei</text>
+<text x="424" y="208" class="l">AWS</text>
+<rect x="522" y="194" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="522" y="194" width="88" height="18" rx="9" fill="#8FC1EE"/>
+<text x="750" y="208" class="n">já usei</text>
+<text x="424" y="240" class="l">Databricks</text>
+<rect x="522" y="226" width="220" height="18" rx="9" fill="#2c2427"/>
+<rect x="522" y="226" width="88" height="18" rx="9" fill="#8FC1EE"/>
+<text x="750" y="240" class="n">já usei</text>
+<circle cx="29" cy="270" r="5" fill="#D2343C"/>
+<text x="40" y="274" class="n">dia a dia</text>
+<circle cx="139" cy="270" r="5" fill="#EF9DB6"/>
+<text x="150" y="274" class="n">frequente</text>
+<circle cx="249" cy="270" r="5" fill="#8FC1EE"/>
+<text x="260" y="274" class="n">já usei</text>
+<text x="354" y="274" class="n">Quanto maior a barra, maior o uso no dia a dia.</text>
+</svg>
