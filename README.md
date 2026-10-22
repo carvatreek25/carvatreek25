@@ -8,7 +8,7 @@
 
 <h3 align="left"><b>Engenheira de Dados</b> | Python, SQL, Google Cloud, dbt e Dagster</h3>
 
-<img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/ferramentas-v3.svg" alt="Ferramentas mais utilizadas" />
+<img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/ferramentas-v4.svg" alt="Ferramentas mais utilizadas" />
 
 <img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/snake.svg" alt="Snake animation" />
 
