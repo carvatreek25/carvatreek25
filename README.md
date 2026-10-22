@@ -89,9 +89,3 @@ Leciono **Data Analytics** em turmas abertas e in company:
 - Boas práticas de governança e linhagem de dados
 
 Meu objetivo é formar profissionais que unam excelência técnica e impacto no negócio.
-
----
-
-## 📊 GitHub Stats
-
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=carvatreek25&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
