@@ -4,13 +4,13 @@
   </a>
 </div>
 
-<h2 align="left">Cuido para que os dados cheguem certos a quem decide</h2>
+<h2 align="left">Cuido para que os dados cheguem certos a quem decide.</h2>
 
 <h3 align="left"><b>Engenheira de Dados</b> | Python, SQL, DBT, Dagster e Google Cloud</h3>
 
 <img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/ferramentas-v6.svg" alt="Ferramentas mais utilizadas" />
 
-<img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/snake.svg" alt="Snake animation" />
+---
 
 ## 👩‍💻 Sobre mim
 
