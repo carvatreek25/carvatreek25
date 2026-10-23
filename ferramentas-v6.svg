@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="830" height="290" viewBox="0 0 830 290" role="img" aria-label="Ferramentas mais utilizadas">
-<style>text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Arial,sans-serif}.t{font-size:18px;font-weight:600;fill:#f0f6fc}.l{font-size:13px;font-weight:600;fill:#e6edf3}.n{font-size:11px;fill:#9198a1}</style>
-<rect x="0.5" y="0.5" width="829" height="289" rx="6" fill="none" stroke="#8b949e" stroke-opacity="0.4"/>
+<style>text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Arial,sans-serif}.t{font-size:18px;font-weight:600;fill:#f0f6fc}.l{font-size:13px;font-weight:600;fill:#e6edf3}.n{font-size:11px;fill:#a3acb8}</style>
+<rect x="0.5" y="0.5" width="829" height="289" rx="6" fill="#323B45" stroke="#8b949e" stroke-opacity="0.35"/>
 <rect x="24" y="22" width="4" height="20" rx="2" fill="#B49BEB"/>
 <text x="38" y="37" class="t">Ferramentas mais utilizadas</text>
 <text x="24" y="80" class="l">Python</text>

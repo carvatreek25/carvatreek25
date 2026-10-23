@@ -4,15 +4,11 @@
   </a>
 </div>
 
-<h2 align="left">👋 Olá, eu sou a Amanda! Cuido para que os dados cheguem certos a quem decide</h2>
+<h2 align="left">Cuido para que os dados cheguem certos a quem decide</h2>
 
-<h3 align="left"><b>Engenheira de Dados</b> | Python, SQL, dbt, Dagster e Google Cloud</h3>
+<h3 align="left"><b>Engenheira de Dados</b> | Python, SQL, DBT, Dagster e Google Cloud</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/ferramentas-v5-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/ferramentas-v5-light.svg">
-  <img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/ferramentas-v5-light.svg" alt="Ferramentas mais utilizadas" />
-</picture>
+<img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/ferramentas-v6.svg" alt="Ferramentas mais utilizadas" />
 
 <img src="https://raw.githubusercontent.com/carvatreek25/carvatreek25/main/snake.svg" alt="Snake animation" />
 
@@ -20,7 +16,7 @@
 
 Sou engenheira de dados com uma transição bem-sucedida da análise, e levo essa perspectiva para a engenharia: conecto a **infraestrutura técnica** com as **necessidades do negócio**. Entendo como os dados fluem, se transformam e geram impacto real nas organizações, e desenho cada pipeline pensando em quem vai consumi-lo.
 
-Atuo na manutenção e evolução de infraestruturas de dados em produção e teste, garantindo **confiabilidade, desempenho e governança** em ambientes **multicloud** (Google Cloud, Azure e AWS). No dia a dia, trabalho com **Python, SQL, dbt e Dagster** sobre o **Google Cloud**.
+Atuo na manutenção e evolução de infraestruturas de dados em produção e teste, garantindo **confiabilidade, desempenho e governança** em ambientes **multicloud** (Google Cloud, Azure e AWS). No dia a dia, trabalho com **Python, SQL, DBT e Dagster** sobre o **Google Cloud**.
 
 Também sou **educadora de dados**: leciono Data Analytics em turmas abertas e in company, e por isso gosto de projetos que dá para explicar e reproduzir.
 
@@ -42,7 +38,7 @@ Também sou **educadora de dados**: leciono Data Analytics em turmas abertas e i
 - Processamento distribuído com **PySpark** e Databricks
 
 ### Transformação e modelagem
-- Modelagem em camadas (**bronze, silver e gold**) com **dbt** e SQL, com testes e documentação
+- Modelagem em camadas (**bronze, silver e gold**) com **DBT** e SQL, com testes e documentação
 - Data warehouse no **BigQuery**, com otimização de custo e desempenho
 - Padronização de schemas, catálogo de dados e linhagem
 
@@ -63,7 +59,7 @@ Também sou **educadora de dados**: leciono Data Analytics em turmas abertas e i
 |---|---|---|
 | [**projeto-supermercado-medalhao**](https://github.com/carvatreek25/projeto-supermercado-medalhao) | Vendas brutas e inconsistentes viram uma base limpa e auditada, pronta para responder quando o supermercado vende mais, qual o ticket médio e como cada filial é avaliada. | Python, Pandas, Faker, arquitetura medalhão (bronze, silver, gold), Power BI |
 | [**End-to-End_Data_Pipeline_DuckDB**](https://github.com/carvatreek25/End-to-End_Data_Pipeline_DuckDB) | O cadastro bruto de uma academia vira uma base confiável para saber quanto cada plano fatura, qual o perfil dos alunos por faixa etária e como a receita evolui. | Python, DuckDB, SQL, Pandas, Seaborn, arquitetura medalhão |
-| [**meu_dbt_pdf**](https://github.com/carvatreek25/meu_dbt_pdf) | Faturas que existem só em PDF, e que ninguém consegue analisar, viram tabelas confiáveis e alimentam um dashboard que se atualiza a cada nova fatura. | Python, Camelot, dbt, MySQL, Power BI |
+| [**meu_dbt_pdf**](https://github.com/carvatreek25/meu_dbt_pdf) | Faturas que existem só em PDF, e que ninguém consegue analisar, viram tabelas confiáveis e alimentam um dashboard que se atualiza a cada nova fatura. | Python, Camelot, DBT, MySQL, Power BI |
 | [**Python_Data_Wrangling_Supermarket_Sales**](https://github.com/carvatreek25/Python_Data_Wrangling_Supermarket_Sales) | Dados de venda em formato bruto viram uma base padronizada para o gestor decidir, por exemplo, o melhor horário para uma promoção relâmpago. | Python, Pandas, DuckDB, Power BI |
 | [**Delivery**](https://github.com/carvatreek25/Delivery) | Dá a Marketing, Pricing e Financeiro os números para decidir quais entregadores rendem mais, quanto subsidiar a taxa por região e como dividir o bônus a partir do lucro. | Python, Pandas, Jupyter, Matplotlib, Seaborn |
 
